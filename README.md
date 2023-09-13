@@ -1,51 +1,13 @@
-![Screenshot_1694606388](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/fea70eb5-3a31-4a62-acc6-c855189932bd)# stackss_practical
+# Social Media Ecommerce UI with Light/Dark Mode
+<img src="https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/230aeced-9983-4709-92ec-1ef62bf62516" width="220" height="420"/>
 
-![Screenshot_1694608129](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/2fa86e1b-bb14-41ee-baf1-0289924482d8)
-![Screenshot_1694606367](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/229975cf-ecdc-423e-9726-dc32af73f0f3)
-![Screenshot_1694608121](htt![Screenshot_1694608129](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/5075390f-601a-45d0-8a67-de67ab2ab3ff)
-![U![Screenshot_1694608101](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/bb6b21fd-247f-45c7-a16f-d75cb4239393)
-ploa![Screenshot_1694606382](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/a4d205ae-394d-44a9-94d2-868d619eeae1)
-![Screenshot_1694606367](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/78aed99b-2b60-4783-beed-2f70f5fb884d)
-![Screenshot_1694608129](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/bb64633c-55e9-4979-8f08-100cff5dc3c1)
-![Screenshot_1694608121](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/43a632a9-ee18-4016-913f-b4ade9cccf05)
-![Screenshot_1694606367](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/c5061109-e455-4abf-8993-7459724861ba)
-![Screenshot_1694606388](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/64cafa0d-81c7-4ea7-beeb-3fc47088382b)
-![Screenshot_1694608129](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/6a25cbc2-fa47-4658-9666-07733a2b2a3e)
-![Screenshot_1694608101](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/733c3875-9f76-464f-9649-0bf223d3ecf1)
-![Screenshot_1694606394](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/8cededc3-d6ca-4129-92b3-0e637ae890e4)
-![Screenshot_1694606382](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/f7d405b4-c5d8-4134-87c0-aaecc27baeb0)
-![Screenshot_1694606394](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/0a07ef08-25dc-4186-93ab-41947e1a8341)
-![Screenshot_1694608121](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/981ca85b-d00b-4010-ae3b-c1e2ef070be0)
-![Uploading Screenshot_1694608129.png…]()
-![Screenshot_1694606388](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/bc022290-ca6d-44b1-95a5-a679065f82c5)
-![Screenshot_1694608101](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/f6a6ff7b-ef36-48f3-97db-26ef3ff7cdce)
-![Screenshot_1694606382](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/d4fa1835-e4f2-441b-b65e-754f67e7aea1)
-![Screenshot_1694606388](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/70085781-fa16-4683-8fdf-d1cc5b7e7551)
-![Screenshot_1694606367](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/e5bfaf10-b4c7-442c-aae7-814fd2b197cb)
-![Screenshot_1694606394](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/6235a5d2-e34c-43da-846a-1a1046a9f20a)
-![Screenshot_1694606382](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/f04e1b63-73be-460b-98b1-bdd7dc95ab59)
-![Screenshot_1694608101](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/15cdf7bc-a2c8-43c4-9fd5-190c43e491bb)
-![Screenshot_1694608121](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/09ea618b-e31e-40b5-93a6-dd198f624418)
-![Screenshot_1694606394](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/4a5ac843-9310-4a07-85bf-719ce6c1452d)
-![Screenshot_1694606388](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/3b9a57ab-bb41-4143-a639-9eeb61ec14c5)
-![Screenshot_1694606367](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/983fda3b-605a-4f25-ba54-3db81090d885)
-![Screenshot_1694608121](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/73df2794-fd28-4bd8-91c8-fa556520ad6f)
-![Screenshot_1694606382](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/306c2775-75e1-4d83-b877-b6692bcfa5cb)
-![Screenshot_1694606367](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/08ffb121-fa96-4cb2-b919-6689559557c3)
-ding Screenshot_1694606388.png…]()
-![Screenshot_1694606394](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/c529cd03-e085-4d89-8243-a765ed557107)
-![Screenshot_1694608101](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/8a09cf81-a8c3-4cc2-abe5-f63f54ff0a0c)
-![Screenshot_1694606382](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/4426d3c0-05e9-422f-803f-db799f7f4189)
-ps://github.com/namanAgarwal2k/stackss_practical/assets/68550040/10df5c89-49bf-4b79-bd70-96202e0d4479)
-![Screenshot_1694608129](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/46b65bdd-1a7b-40b7-8cf3-b8344b23b516)
-![Screenshot_1694608101](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040![Screenshot_1694606388](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/2319b553-f940-44f5-a704-e39721ca834c)
-/0dbc![Screenshot_1694606394](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/fed8139a-2b5b-405c-9ac3-3da49aa33eeb)
-![Screenshot_1694606367](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/ec88b70b-8d3d-46b9-a6f3-a88038371fdc)
-![Screenshot_1694608121](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/04b354bc-ffa8-45f4-8d91-7ad688aef6a7)
-![Screenshot_1694606388](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/908baf81-e88d-4849-8f89-12faaf41bb8d)
-![Screenshot_1694608129](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/30c5517d-6a7e-407e-96f8-a41087bc3f26)
-6f08-2592-4981-a2fb-e2a94cec71b9)
-![Screenshot_1694608101](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/dd29a576-8afe-4566-9a6c-83475b5fd466)
-![Screenshot_1694608121](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/456157f9-47ea-4aee-9149-6de784e040e9)
-![Screenshot_1694606382](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/7d0a4a5d-3ec5-44ac-b7fb-c7151db2eb04)
-![Screenshot_1694606394](https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/2ee5efb2-ae8c-4c7f-913f-7510f73a84c2)
+<img src="https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/fea70eb5-3a31-4a62-acc6-c855189932bd" width="220" height="420"/>
+
+
+
+<img src="https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/417b04b5-743d-4972-99fe-7a9c4a72cca4" width="220" height="420"/>
+<img src="https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/f77f0f53-6259-484d-a89b-21e6b96e951c" width="220" height="420"/>
+
+<img src="https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/b8543c5d-376a-44a1-85f8-e05b91356d26" width="220" height="420"/>
+<img src="https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/8be80605-3461-4e94-8976-8ae1ce038622" width="220" height="420"/>
+<img src="https://github.com/namanAgarwal2k/stackss_practical/assets/68550040/5605263f-c925-474b-92da-91b40924d8ba" width="220" height="420"/>
